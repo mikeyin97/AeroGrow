@@ -4,7 +4,7 @@
 }
 
 html,body{
-    font-family: Century Gothic,"Helvetica", "Arial", sans-serif;
+    font-family: "Century Gothic:","Helvetica", "Arial", sans-serif;
     color:#3e3d3d;
     width:100%;
     height:100%;
@@ -61,7 +61,19 @@ table{
     text-decoration:none;
     color:white;
 }
-#navbar table th a:hover 
+
+
+#footer table th a:visited{
+    text-decoration:none;
+    color:white;
+}
+
+#footer table th a:link{
+    text-decoration:none;
+    color:white;
+}
+
+#navbar table th a:hover
 
 .content{
     width:100%;
