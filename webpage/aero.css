@@ -23,10 +23,9 @@ html,body{
     margin: 5px 0px 5px 20px;
 }
 
-#logo a img{
+#logo  img{
     width:100px;
     height:30px;
-    margin: 0em 0px 0em 0px;
 }
 
 #navbar{
@@ -53,6 +52,16 @@ table{
     padding:auto;
     color:white;
 }
+#navbar table th a:visited{
+    text-decoration:none;
+    color:white;
+}
+
+#navbar table th a:link{
+    text-decoration:none;
+    color:white;
+}
+#navbar table th a:hover 
 
 .content{
     width:100%;
@@ -144,6 +153,5 @@ table{
     margin-left:15px;
     margin-right:15px;
 }
-
 
 
