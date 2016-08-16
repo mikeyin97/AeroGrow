@@ -1,0 +1,22 @@
+{
+  "name": "AeroGrow",
+  "homepage": "index.html",
+  "authors": [
+    "mikeyin97 <yinjitong@hotmail.com>"
+  ],
+  "description": "promoting urban gardening!",
+  "main": "index.html",
+  "keywords": [
+    "aeroponics",
+    "gardening",
+    "product"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
